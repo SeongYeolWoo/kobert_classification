@@ -1,6 +1,8 @@
 
 기술스택: Python, Tensorflow, Pytorch, KoBERT
+
 논문작성 "A Study of BERT-based Classification Performance of Text-based Health Counseling Data"(220524 CMES Journal Accepted)
+
 구현환경: Google Colab
 
 텍스트 건강상담 데이터를 활용하여, KoBERT, CNN, RNN, LSTM, GRU의 성능을 비교하였습니다.
