@@ -7,6 +7,11 @@
 
 텍스트 건강상담 데이터를 활용하여, KoBERT, CNN, RNN, LSTM, GRU의 성능을 비교하였습니다.
 
+
+KoBERT: https://colab.research.google.com/drive/1wjN61A1bQ1s0FNRjEk9gE5CNIV9HubHJ?usp=sharing
+
+RNN, CNN, LSTM, GRU: https://colab.research.google.com/drive/1i1HpLdFv1Q7R9Uhjot1BG-xSTifu4bwa?usp=sharing
+
 CNN
 
 ![image](https://user-images.githubusercontent.com/76803357/184536545-9138e78b-9994-4377-b042-41be90ddd2c4.png)
